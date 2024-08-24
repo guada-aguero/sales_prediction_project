@@ -12,7 +12,9 @@ This project involves predicting sales for various stores based on historical da
 The final model used in this project is a Gradient Boosting model (`gboost_model.pkl`).
 
 ### Download the Model
-The trained model `gboost_model.pkl` is available for download in the [Releases](https://github.com/guada-aguero/sales_prediction_project/releases) section.
+The trained model `gboost_model.pkl` is too large to be stored in this repository. You can download it from the following link:
+
+[Download gboost_model.pkl](https://github.com/guada-aguero/sales_prediction_project/releases/tag/v1.0)
 
 ## How to Use
 1. **Clone the repository**:
